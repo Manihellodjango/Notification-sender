@@ -1,10 +1,10 @@
-RESTful Notification Forwarder
+##RESTful Notification Forwarder
 
-Overview
+#Overview
 
 This project implements a RESTful web service that receives notifications via a POST interface and forwards them to a Slack channel based on their type. Notifications classified as Warning are forwarded, while those classified as Info are ignored.
 
-Features
+#Features
 
 Accepts notifications via a POST request.
 
